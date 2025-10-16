@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "459899542795",
+    "project_id": "prontuario-eletronico-bc08c",
+    "storage_bucket": "prontuario-eletronico-bc08c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:459899542795:android:d143e075c22b25868e960e",
+        "android_client_info": {
+          "package_name": "com.example.prontuario_eletronico"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfi6JSZBF81pEZLgxSwxL3wCsK7s5E2i4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
